@@ -1,15 +1,15 @@
-<div align="center">
+<div>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hi+there👋&center=true)](https://git.io/typing-svg) </br>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hi+there👋)](https://git.io/typing-svg) </br>
 
 I'm a Frontend Engineer passionate about developing services that alleviate people's discomfort. <br/>
 I strive to make a positive impact and dream of a better future for everyone.
 
 </div>
-<br/><br/>
+<br/>
 
-<h4 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+<h3>✨ Tech Stack ✨</h3>
+<div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
@@ -18,10 +18,10 @@ I strive to make a positive impact and dream of a better future for everyone.
   <img src="https://img.shields.io/badge/tanstack%20Query-ef4444?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
 </div>
+<br/>
 
-<br>
-<h4 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<h3>🛠 Tools 🛠</h3>
+<div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
@@ -31,11 +31,10 @@ I strive to make a positive impact and dream of a better future for everyone.
   <img src="https://img.shields.io/badge/figma-CB9FD2.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code" />&nbsp
 </div>
+<br/>
 
-<br/><br/>
-
-<h4 align="center">📜 Github Stats 📜</h3>
-<div align="center">
+<h3>📜 Github Stats 📜</h3>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeny404&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFB400&text_color=fff&title_color=FFB400&count_private=true" width=38% />
 </a>    
