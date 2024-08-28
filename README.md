@@ -1,7 +1,10 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hi+there👋&center=true)](https://git.io/typing-svg) </br>
-  
+
+I'm a Frontend Engineer passionate about developing services that alleviate people's discomfort.
+I strive to make a positive impact and dream of a better future for everyone.
+
 </div>
 <br/><br/>
 
