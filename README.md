@@ -1,11 +1,8 @@
 
-<!--타이틀 부분-->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=reeny's+github)](https://git.io/typing-svg) </br>
 ![reeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeny404&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeny404&layout=compact)
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=reeny's+github)](https://git.io/typing-svg)
-</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
