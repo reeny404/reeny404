@@ -26,7 +26,7 @@ I strive to make a positive impact and dream of a better future for everyone.
 
 <h3>📫 About me 📫</h3>
 <div>
-  <a href="https://velog.io/@oka1313"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <a href="https://reeny404.tistory.com/"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>
   &nbsp
   <a href="mailto:happy2hyeon@kakao.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
