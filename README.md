@@ -4,7 +4,6 @@
 
 I'm a Frontend Engineer passionate about developing services that alleviate people's discomfort. <br/>
 I strive to make a positive impact and dream of a better future for everyone.
-
 </div>
 <br/>
 
@@ -45,3 +44,5 @@ I strive to make a positive impact and dream of a better future for everyone.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=reeny404&theme=react-dark&bg_color=20232a&hide_border=true&line=FFB400&color=FFB400" width=94%/>
 </a>
 </div>
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msh309)](https://solved.ac/msh309/) -->
