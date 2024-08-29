@@ -1,6 +1,6 @@
 <div>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hi+there👋)](https://git.io/typing-svg) </br>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hi+there+👋)](https://git.io/typing-svg) </br>
 
 I'm a Frontend Engineer passionate about developing services that alleviate people's discomfort. <br/>
 I strive to make a positive impact and dream of a better future for everyone.
