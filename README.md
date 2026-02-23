@@ -22,17 +22,23 @@ I strive to make a positive impact and dream of a better future for everyone.
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,nextjs,redux,supabase,tailwindcss)](https://skillicons.dev)
 
+![Top Languages](./profile/top-langs.svg)
+
 <br/>
 
 
 <h3>Github Stats</h3>
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  
+![GitHub Stats](./profile/stats.svg)
+<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
+  
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeny404&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFB400&text_color=fff&title_color=FFB400&count_private=true" width=38% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=reeny404&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFB400&text_color=fff&title_color=FFB400&count_private=true" width=56% />
-</a>
+</a> -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=reeny404&theme=react-dark&bg_color=20232a&hide_border=true&line=FFB400&color=FFB400" width=94%/>
 </a> -->
