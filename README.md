@@ -30,7 +30,8 @@ I strive to make a positive impact and dream of a better future for everyone.
 <h3>Github Stats</h3>
 <div>
   
-![GitHub Stats](./profile/stats.svg)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=reeny404&theme_light=light_github)
+
 <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
   
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
