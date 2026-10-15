@@ -12,6 +12,9 @@ I strive to make a positive impact and dream of a better future for everyone.
 
 <h3>Connect with me</h3>
 <div>
+  <!-- utm 파라미터로 포트폴리오(GA, Amplitude)에서 'GitHub 프로필에서 들어온 방문'을 구분 -->
+  <a href="https://reeny404.github.io/?utm_source=github&utm_medium=profile_readme&utm_campaign=profile"><img src="https://img.shields.io/badge/portfolio-2D5BFF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  &nbsp
   <!-- <a href="https://reeny404.tistory.com/"><img src="https://img.shields.io/badge/tistory-f7f7f5?style=for-the-badge&logo=tistory&logoColor=black" /></a>
   &nbsp -->
   <a href="mailto:happy2hyeon@kakao.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
